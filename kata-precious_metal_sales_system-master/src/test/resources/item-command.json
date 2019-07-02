@@ -1,0 +1,51 @@
+{
+   "001001":{
+	  "itemName": "世园会五十国钱币册",
+	  "itemUnit": "册",
+	  "itemPrice": "998.00",
+	  "type": "5",
+	  "coupon":"c"
+	  },
+	"001002":{
+	 "itemName": "2019北京世园会纪念银章大全40g",
+	  "itemUnit": "盒",
+	  "itemPrice": "1380.00",
+	  "type": "5",
+	  "coupon":"b"
+	  },
+	"003001":{
+	 "itemName": "招财进宝",
+	  "itemUnit": "条",
+	  "itemPrice": "1580.00",
+	  "type": "5",
+	  "coupon":"a"
+	  },
+	"003002":{
+	 "itemName": "水晶之恋",
+	  "itemUnit": "条",
+	  "itemPrice": "980.00",
+	  "type": "0,1",
+	  "coupon":"c"
+	  },
+	"002002":{
+	 "itemName": "中国经典钱币套装",
+	  "itemUnit": "套",
+	  "itemPrice": "998.00",
+	  "type": "3,4",
+	  "coupon":"c"
+	  },
+	"002001":{
+	 "itemName": "守扩之羽比翼双飞4.8g",
+	  "itemUnit": "条",
+	  "itemPrice": "1080.00",
+	  "type": "0,1",
+	  "coupon":"a"
+	  },
+	"002003":{
+	 "itemName": "中国银象棋12g",
+	  "itemUnit": "套",
+	  "itemPrice": "698.00",
+	  "type": "2,3,4",
+	  "coupon":"b"
+	  }
+}

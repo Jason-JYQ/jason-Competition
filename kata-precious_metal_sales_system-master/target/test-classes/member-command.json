@@ -1,0 +1,26 @@
+{
+   "6236609999":{
+	  "vipName": "马丁",
+	  "vipLevel": "普卡",
+	  "vipCode": "6236609999",
+	  "vipPoints": "9860"
+	  },
+	"6630009999":{
+	  "vipName": "王立",
+	  "vipLevel": "金卡",
+	  "vipCode": "6630009999",
+	  "vipPoints": "48860"
+	  },
+	"8230009999":{
+	  "vipName": "李想",
+	  "vipLevel": "白金卡",
+	  "vipCode": "8230009999",
+	  "vipPoints": "98860"
+	  },
+	 "9230009999":{
+	  "vipName": "张三",
+	  "vipLevel": "钻石卡",
+	  "vipCode": "9230009999",
+	  "vipPoints": "198860"
+	  }
+}
